@@ -1,0 +1,6 @@
+driver = org.hsqldb.jdbcDriver
+nome do bd = Condominio
+URL = C:\Users\rafae\Downloads\Unesp\LCP\Projeto-LCP\Banco de Dados\BD
+user = SA
+senha = ""
+Table = Morador
