@@ -1,0 +1,3 @@
+//a primeira função do programa irá perguntar qtos PREDIO, e irá criar X*4 objetos BLOCOS
+//implementar set/get no_ocupantes de Predio ligado a no ocupantes de bloco
+//implementar set/get no_ocupantes de apartamento ligado a no ocupantes bloco - NÃO RESOLVIDO

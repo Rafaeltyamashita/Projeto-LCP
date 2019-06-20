@@ -1,0 +1,3 @@
+Reunir em grupo de, no máximo, 3 pessoas.
+Pensar em uma aplicação que use Java como ferramenta principal e conceitos estudados na disciplina.
+Façam a proposta em um documento onde constem os nomes dos participantes, a aplicação e uma breve explicação do que será desenvolvido.
